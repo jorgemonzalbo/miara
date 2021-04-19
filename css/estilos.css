@@ -1,0 +1,66 @@
+h1{
+    font-family:'Times New Roman', Times, serif;
+    color:rgb(126, 114, 114);
+}
+
+h2{
+    font-family:'Times New Roman', Times, serif;
+    color:rgb(126, 114, 114);
+}
+
+h3{
+    font-family:'Times New Roman', Times, serif;
+    color:blanchedalmond;
+    font:bold;
+}
+
+h4{
+    font-family:'Times New Roman', Times, serif;
+    color:blanchedalmond;
+    font:bold;
+}
+
+h5{
+    font-family:'Times New Roman', Times, serif;
+    color:black;
+    font:bold;
+}
+
+p{
+    font-family:'Times New Roman', Times, serif;
+    color:rgba(0, 0, 0, 0.335);
+    font-weight: bold;
+    font-size: 150%;
+}
+
+img{
+    display: flex;
+    margin: 0 auto;
+    border-radius: 10%;
+}
+
+.img-iconos{
+    width: 60;
+    height: 60;
+}
+
+a{
+    font-family:'Times New Roman', Times, serif;
+    color:black;
+}
+
+.centrar-video{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container-center{
+    display: grid;
+    justify-items: center;
+}
+
+.img-logo{
+    width: 200px;   
+}
+
